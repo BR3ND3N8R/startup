@@ -12,3 +12,5 @@ Some key features include:
 - The verse is chosen on a per-day basis, and the same verse is provided to players around the world for the day.
 - Potential for growth into a "free-play" mode which doesn't provide points to the user's account, if they wish
   to play more than the once per day (as is in Wordle).
+
+Link to main page mock-up: https://ninjamock.com/s/1L4WVKx
