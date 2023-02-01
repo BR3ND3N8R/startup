@@ -14,3 +14,11 @@ Some key features include:
   to play more than the once per day (as is in Wordle).
 
 Link to main page mock-up: https://ninjamock.com/s/1L4WVKx
+
+------------------------------------------------------------------------------------------------------------------
+
+1/31/2023 - 
+
+My CS 260 Server elastic IP: 3.128.12.84
+
+SSH command: ssh -i [key pair file] ubuntu@[ip address]
