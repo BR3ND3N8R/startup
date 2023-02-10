@@ -22,3 +22,12 @@ Link to main page mock-up: https://ninjamock.com/s/1L4WVKx
 My CS 260 Server elastic IP: 3.128.12.84
 
 SSH command: ssh -i [key pair file] ubuntu@[ip address]
+
+------------------------------------------------------------------------------------------------------------------
+
+2/10/2023 - 
+
+Link to my Simon page: simon.versle.click
+
+Way to deploy Simon files:
+./deployFiles.sh -k <yourpemkey> -h <yourdomain> -s simon (while in Simon directory)
