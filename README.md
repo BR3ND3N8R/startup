@@ -31,3 +31,32 @@ Link to my Simon page: simon.versle.click
 
 Way to deploy Simon files:
 ./deployFiles.sh -k <yourpemkey> -h <yourdomain> -s simon (while in Simon directory)
+
+------------------------------------------------------------------------------------------------------------------
+
+2/13/2023 - 
+
+Google Fonts link: https://fonts.google.com/
+
+How to use/import fonts in CSS:
+
+```
+@font-face {
+  font-family: 'Quicksand';
+  src: url('https://cs260.click/fonts/quicksand.woff2');
+}
+
+p {
+  font-family: Quicksand;
+}
+```
+
+OR
+
+```
+@import url('https://fonts.googleapis.com/css2?family=Rubik Microbe&display=swap');
+
+p {
+  font-family: 'Rubik Microbe';
+}
+```
